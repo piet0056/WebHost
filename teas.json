@@ -1,0 +1,32 @@
+{
+    "teaNames":[
+        "Silver Needle", 
+        "Assam", 
+        "Darjeeling", 
+        "Scottish Breakfast"
+    ],
+    "teaList":[
+        {
+            "origin"  :  "Silver Needle",
+            "teaType" :  "White",
+            "flavor"  :  "Light"
+        },
+        {
+            "origin"  :  "Assam",
+            "teaType" :  "Black",
+            "flavor"  :  "Whatever"
+        },
+        {
+            "origin"  :  "Assam",
+            "teaType" :  "Black",
+            "flavor"  :  "Whatever"
+        },
+        {
+            "origin"  :  "Assam",
+            "teaType" :  "Black",
+            "flavor"  :  "Whatever"
+        }
+        
+    ]
+}
+
